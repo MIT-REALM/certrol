@@ -2,7 +2,7 @@
     <img src="resources/logo.png" width="200"/>
 </div>
 
-# Introduction
+## Introduction
 
 Certrol is a tool-box for machine learning-based certifiable controller synthesis. Certrol currently supports the following algorithms:
 
@@ -12,7 +12,7 @@ Certrol is a tool-box for machine learning-based certifiable controller synthesi
 4. [Safe Nonlinear Control Using Robust Neural Lyapunov-Barrier Functions](./neural_clbf)
 
 
-# Citation
+## Citation
 
 If you find this project useful in your research, please consider cite:
 
