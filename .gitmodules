@@ -4,3 +4,6 @@
 [submodule "sablas"]
 	path = sablas
 	url = git@github.com:MIT-REALM/sablas.git
+[submodule "ccm"]
+	path = ccm
+	url = git@github.com:MIT-REALM/ccm.git
