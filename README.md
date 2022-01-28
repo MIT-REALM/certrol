@@ -11,10 +11,20 @@ Certrol is a tool-box for machine learning-based certifiable controller synthesi
 3. [Safe Control for Black-box Dynamical Systems with Control Barrier Functions](./sablas)
 4. [Safe Nonlinear Control Using Robust Neural Lyapunov-Barrier Functions](./neural_clbf)
 
+## Installation
+
+Certrol relies on a number of submodules. To clone the Certrol repository and each submodule, run
+```
+git clone git@github.com:MIT-REALM/certrol.git
+git submodule init
+git submodule update
+```
+
+Then follow the installation instructions for each submodule you are interested in using.
 
 ## Citation
 
-If you find this project useful in your research, please consider cite:
+If you find this project useful in your research, please consider citing:
 
 ```bibtex
 @article{sun2020learning,
@@ -36,5 +46,17 @@ If you find this project useful in your research, please consider cite:
   author={Charles Dawson, Zengyi Qin, Sicun Gao, Chuchu Fan},
   journal={5th Annual Conference on Robot Learning},
   year={2021}
+}
+
+@article{dawson2022perception,
+  author={Dawson, Charles and Lowenkamp, Bethany and Goff, Dylan and Fan, Chuchu},
+  journal={IEEE Robotics and Automation Letters},
+  title={Learning Safe,
+  Generalizable Perception-Based Hybrid Control With Certificates},
+  year={2022},
+  volume={7},
+  number={2},
+  pages={1904-1911},
+  doi={10.1109/LRA.2022.3141657}
 }
 ```
