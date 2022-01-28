@@ -50,6 +50,17 @@ If you find this project useful in your research, please consider citing:
   year={2021}
 }
 
+@ARTICLE{qin2021sablas,
+  author={Qin, Zengyi and Sun, Dawei and Fan, Chuchu},
+  journal={IEEE Robotics and Automation Letters},
+  title={Sablas: Learning Safe Control for Black-Box Dynamical Systems},
+  year={2022},
+  volume={7},
+  number={2},
+  pages={1928-1935},
+  doi={10.1109/LRA.2022.3142743}
+}
+
 @article{dawson2021safe,
   title={Safe Nonlinear Control Using Robust Neural Lyapunov-Barrier Functions},
   author={Charles Dawson, Zengyi Qin, Sicun Gao, Chuchu Fan},
