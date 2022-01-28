@@ -7,3 +7,6 @@
 [submodule "ccm"]
 	path = ccm
 	url = git@github.com:MIT-REALM/ccm.git
+[submodule "macbf"]
+	path = macbf
+	url = git@github.com:MIT-REALM/macbf.git
