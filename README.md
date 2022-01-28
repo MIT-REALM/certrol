@@ -22,6 +22,15 @@ git submodule update
 
 Then follow the installation instructions for each submodule you are interested in using.
 
+## Licenses
+
+Licenses for each submodule are maintained within each submodule. In summary:
+
+1. `sablas` has a TODO license
+2. `macbf` has a TODO license
+3. `sablas` has a TODO license
+4. `neural_clbf` has a 3-clause BSD license.
+
 ## Citation
 
 If you find this project useful in your research, please consider citing:
