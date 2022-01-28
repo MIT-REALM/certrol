@@ -1,3 +1,6 @@
 [submodule "neural_clbf"]
 	path = neural_clbf
 	url = git@github.com:MIT-REALM/neural_clbf.git
+[submodule "sablas"]
+	path = sablas
+	url = git@github.com:MIT-REALM/sablas.git
