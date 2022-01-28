@@ -6,7 +6,7 @@
 
 Certrol is a tool-box for machine learning-based certifiable controller synthesis. Certrol currently supports the following algorithms:
 
-1. [Learning the Control Contraction Metric](./ccm)
+1. [Learning the Control Contraction Metric](./C3M)
 2. [Safe Control for Multi-agent Systems with Decentralized Control Barrier Functions](./macbf)
 3. [Safe Control for Black-box Dynamical Systems with Control Barrier Functions](./sablas)
 4. [Safe Nonlinear Control Using Robust Neural Lyapunov-Barrier Functions](./neural_clbf)
@@ -26,7 +26,7 @@ Then follow the installation instructions for each submodule you are interested 
 
 Licenses for each submodule are maintained within each submodule. In summary:
 
-1. `sablas` has a TODO license
+1. `C3M` has a TODO license
 2. `macbf` has a TODO license
 3. `sablas` has a TODO license
 4. `neural_clbf` has a 3-clause BSD license.
