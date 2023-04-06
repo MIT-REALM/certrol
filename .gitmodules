@@ -10,3 +10,6 @@
 [submodule "macbf"]
 	path = macbf
 	url = git@github.com:MIT-REALM/macbf.git
+[submodule "neuriss"]
+	path = neuriss
+	url = git@github.com:MIT-REALM/neuriss.git
