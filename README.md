@@ -10,6 +10,7 @@ Certrol is a tool-box for machine learning-based certifiable controller synthesi
 2. [Safe Control for Multi-agent Systems with Decentralized Control Barrier Functions](https://github.com/MIT-REALM/macbf/tree/7e364b7a65801debaccc2f60673323385e6f05d3)
 3. [Safe Control for Black-box Dynamical Systems with Control Barrier Functions](https://github.com/MIT-REALM/sablas/tree/2ba1c5c92bc18a1218140780f8f9e051f68f73ae)
 4. [Safe Nonlinear Control Using Robust Neural Lyapunov-Barrier Functions](https://github.com/MIT-REALM/neural_clbf/tree/a39d3e2cfb9d9bf53ed000b36a30ae1965253dce)
+5. [Compositional Neural Certificates for Networked Dynamical Systems](https://github.com/MIT-REALM/neuriss/tree/c1abebc2af38afdf9e58c8089de05217679b1703)
 
 ## Installation
 
@@ -30,6 +31,7 @@ Licenses for each submodule are maintained within each submodule. In summary:
 2. `macbf` has a TODO license
 3. `sablas` has a TODO license
 4. `neural_clbf` has a 3-clause BSD license.
+5. `neuriss` has a MIT license
 
 ## Citation
 
@@ -78,5 +80,12 @@ If you find this project useful in your research, please consider citing:
   number={2},
   pages={1904-1911},
   doi={10.1109/LRA.2022.3141657}
+}
+
+@inproceedings{zhang2023neuriss,
+  title={Compositional Neural Certificates for Networked Dynamical Systems},
+  author={Songyuan Zhang and Yumeng Xiu and Guannan Qu and Chuchu Fan},
+  booktitle={5th Annual Learning for Dynamics {\&} Control Conference},
+  year={2023},
 }
 ```
