@@ -6,10 +6,10 @@
 
 Certrol is a tool-box for machine learning-based certifiable controller synthesis. Certrol currently supports the following algorithms:
 
-1. [Learning the Control Contraction Metric](./C3M)
-2. [Safe Control for Multi-agent Systems with Decentralized Control Barrier Functions](./macbf)
-3. [Safe Control for Black-box Dynamical Systems with Control Barrier Functions](./sablas)
-4. [Safe Nonlinear Control Using Robust Neural Lyapunov-Barrier Functions](./neural_clbf)
+1. [Learning the Control Contraction Metric](https://github.com/MIT-REALM/ccm/tree/8377d469af09b39bd02fe3946f2085d7be63e45a)
+2. [Safe Control for Multi-agent Systems with Decentralized Control Barrier Functions](https://github.com/MIT-REALM/macbf/tree/7e364b7a65801debaccc2f60673323385e6f05d3)
+3. [Safe Control for Black-box Dynamical Systems with Control Barrier Functions](https://github.com/MIT-REALM/sablas/tree/2ba1c5c92bc18a1218140780f8f9e051f68f73ae)
+4. [Safe Nonlinear Control Using Robust Neural Lyapunov-Barrier Functions](https://github.com/MIT-REALM/neural_clbf/tree/a39d3e2cfb9d9bf53ed000b36a30ae1965253dce)
 
 ## Installation
 
